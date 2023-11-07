@@ -1,0 +1,18 @@
+{
+  "todos": [
+    {
+      "id": "7TZPCgn2DX9hl1eYoxtdt",
+      "title": "something to do in priority",
+      "priority": "low",
+      "completed": true,
+      "createdAt": "Tue, 07 Nov 2023 06:09:13 GMT"
+    },
+    {
+      "id": "FgFc-Ish41HvLRI9LsXja",
+      "title": "something",
+      "priority": "medium",
+      "completed": false,
+      "createdAt": "Tue, 07 Nov 2023 06:19:57 GMT"
+    }
+  ]
+}
